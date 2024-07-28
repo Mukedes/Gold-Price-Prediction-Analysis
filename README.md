@@ -9,15 +9,15 @@ lowest prices recorded during the day.
 ## Dataset Description:
 1. Date: A unique identifier for each trading day.
    
-3. Close: Closing price of gold on the respective date.
+3. Close: The closing price of gold on the respective date.
    
 5. Volume: Gold trading volume on the corresponding date.
    
-7. Open: Opening price of gold on the respective date.
+7. Open: The opening price of gold on the respective date.
    
 9. High: The highest recorded price of gold during the trading day.
     
-11. Low: The lowest price recorded for gold in the trading day.
+11. Low: The lowest price recorded for gold on trading day.
 
 ## Project Objectives:
 
@@ -43,22 +43,22 @@ lowest prices recorded during the day.
 
 - Investigate the impact of market events on gold prices.
   
-- Assess marketsentiment and its influence on short-term and long-term price movements.
+- Assess market sentiment and its influence on short-term and long-term price movements.
 
 5. Statistical Analysis:
    
-- Conductstatistical tests and analyses to gain insights into the characteristics of gold price movements.
+- Conduct statistical tests and analyses to gain insights into the characteristics of gold price movements.
   
 - Explore correlations with external factors and macroeconomic indicators.
 
 ## Expected Deliverables:
 
-- Time series visualizationsillustrating trends and patterns.
+- Time series visualizations illustrating trends and patterns.
   
-- Predictive modelsfor future gold price forecasting.
+- Predictive models for future gold price forecasting.
   
 - Back-tested trading strategies with performance metrics.
   
-- Marketsentiment analysis reports highlighting key events and their impact.
+- Market sentiment analysis reports highlighting key events and their impact.
   
-- Statistical analyses providing insights into the characteristics of gold price movements.
+- Statistical analysis providing insights into the characteristics of gold price movements.
